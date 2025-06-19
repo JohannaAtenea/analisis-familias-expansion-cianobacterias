@@ -1,1 +1,1 @@
-# An-lisis-de-la-distribuci-n-de-familias-g-nicas-expandidas
+# Análisis de la distribución de familias génicas expandidas

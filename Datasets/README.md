@@ -1,7 +1,9 @@
 # Dataset de Genomas de Cianobacterias
 
-Este repositorio contiene datos genómicos y resultados de análisis bioinformáticos sobre **29 cepas distintas de cianobacterias**, identificadas por su ID numérico y nombre científico. Los genomas fueron anotados utilizando la plataforma RAST, y se realizaron estudios sobre familias génicas homólogas, expansión génica, y la presencia del clúster biosintético responsable de producir **scytonemin**.
+Esta carpeta contiene datos genómicos de **29 especies distintas de cianobacterias**, identificadas por su ID numérico y nombre científico. También se incluye el clúster responsable de la producción de **scytonemin**, junto con otros resultados necesarios para ejecutar los scripts en diferentes etapas del proyecto.
+Los genomas fueron anotados utilizando la plataforma RAST (en su interfaz web).
 
+A continuación se enumeran los archivos comprimidos que corresponden a los datos genómicos utilizados, junto con una breve descripción de su contenido.
 ## Archivos incluidos
 
 ### 🔹 `Cianobacterias.tar.gz`

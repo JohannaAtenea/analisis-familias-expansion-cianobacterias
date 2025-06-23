@@ -79,7 +79,28 @@ En los notebooks se hace referencia a estas carpetas como `K_means_results` y `c
 
 Archivo de texto con las **posiciones genómicas** de los genes que conforman el clúster de scytonemin, en aquellos genomas donde se detectó su presencia.
 
+### 🔹 `pangenome_matriz_t0.tr.csv`
+
+Archivo CSV que contiene la **matriz de presencia/ausencia** para el grupo de estudio.  
+Cada fila representa una familia génica ortóloga, y cada columna corresponde a un genoma.  
+Los valores indican si una familia está presente (`1`) o ausente (`0`) en cada genoma.
+
 ---
+
+### 🔹 `longitudes_copias.csv`
+
+Contiene las **longitudes de los genomas del grupo de estudio**, medidas en **kilobases (kb)**.  
+Este archivo se utiliza para normalizar análisis como la proporción de genes duplicados por tamaño de genoma.
+
+---
+
+### 🔹 `ids_scytonemin.txt`
+
+Archivo de texto con los **IDs de los genomas** en los que se detectó la **presencia del clúster biosintético de scytonemin**.  
+Este listado se usa para filtrar análisis posteriores centrados en dichos genomas.
+
+---
+
 
 ## Uso
 

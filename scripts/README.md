@@ -17,7 +17,7 @@ La mayoría de los scripts se pueden ejecutar directamente desde la terminal usa
 
 ```bash
 bash nombre_del_script.sh
-
+```
 ## Descripción de los scripts
 
 ### `obtener_posiciones.sh`
